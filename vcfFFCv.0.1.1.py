@@ -114,7 +114,7 @@ try:    ### Output
     vcf_out=".vcf"
     vcf_out=output+vcf_out
     
-    stats_out=".SNPs.txt"
+    stats_out=".stats.txt"
     stats_out=output+stats_out
 
     params_out=".params.txt"
