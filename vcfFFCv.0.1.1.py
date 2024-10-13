@@ -6,7 +6,7 @@
 ###
 
 """
-Version:        0.1
+Version:        0.1.1
 Author:         Toni de Dios Martinez
 Contact:        tonidedios94@gmail.com
 Date:           07/10/2024
